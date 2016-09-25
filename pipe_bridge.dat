@@ -8,7 +8,6 @@ topspeed=10
 #max_weight=334
 intro_year=1970
 intro_month=1
-draw_as_ding=1
 icon=> pipe_bridge.0.0
 cursor=pipe_bridge.0.0
 

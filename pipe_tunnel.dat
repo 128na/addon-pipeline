@@ -1,0 +1,27 @@
+Obj=tunnel
+copyright=128Na,wo,Fabio Gonella
+Name=pipeline_tunnel
+waytype=water
+way=pipeline_under
+cost=100000
+maintenance=1000
+topspeed=10
+#max_weight=334
+intro_year=1970
+intro_month=1
+icon=> pipe_tunnel.0.0
+cursor=pipe_tunnel.0.0
+
+# 南端
+BackImage[N]=pipe_tunnel.3.4,0,28
+#FrontImage[N]=pipe_tunnel.3.4,0,28
+# 東端
+BackImage[W]=pipe_tunnel.3.5,0,28
+#FrontImage[W]=pipe_tunnel.3.5,0,28
+# 北端
+BackImage[S]=pipe_tunnel.3.6,0,28
+#FrontImage[S]=pipe_tunnel.3.6,0,28
+# 西端
+BackImage[E]=pipe_tunnel.3.7,0,28
+#FrontImage[E]=pipe_tunnel.3.7,0,28
+
