@@ -8,38 +8,38 @@ topspeed=10
 #max_weight=334
 intro_year=1970
 intro_month=1
-icon=> pipe_bridge.0.0
-cursor=pipe_bridge.0.0
+icon=> icon.0.2
+cursor=pipe_bridge.4.5
 
 max_length=334
 max_height=0
 pillar_asymmetric=0
 pillar_distance=1
 
-BackImage[NS]=pipe_bridge.0.2,0,28
-BackImage[EW]=pipe_bridge.0.3,0,28
-BackImage2[NS]=pipe_bridge.0.2,0,28
-BackImage2[EW]=pipe_bridge.0.3,0,28
+BackImage[NS]=pipe_bridge.0.2,0,24
+BackImage[EW]=pipe_bridge.0.3,0,24
+BackImage2[NS]=pipe_bridge.0.2,0,24
+BackImage2[EW]=pipe_bridge.0.3,0,24
 
-BackStart[N]=pipe_bridge.1.6,0,28
-BackStart[S]=pipe_bridge.1.4,0,28
-BackStart[E]=pipe_bridge.1.5,0,28
-BackStart[W]=pipe_bridge.1.7,0,28
+BackStart[N]=pipe_bridge.1.6,0,24
+BackStart[S]=pipe_bridge.1.4,0,24
+BackStart[E]=pipe_bridge.1.5,0,24
+BackStart[W]=pipe_bridge.1.7,0,24
 
-BackStart2[N]=pipe_bridge.0.6,0,28
-BackStart2[S]=pipe_bridge.0.4,0,28
-BackStart2[E]=pipe_bridge.0.5,0,28
-BackStart2[W]=pipe_bridge.0.7,0,28
+BackStart2[N]=pipe_bridge.0.6,0,24
+BackStart2[S]=pipe_bridge.0.4,0,24
+BackStart2[E]=pipe_bridge.0.5,0,24
+BackStart2[W]=pipe_bridge.0.7,0,24
 
-BackRamp[N]=pipe_bridge.5.5,0,28
-BackRamp[S]=pipe_bridge.5.7,0,28
-BackRamp[E]=pipe_bridge.5.6,0,28
-BackRamp[W]=pipe_bridge.5.4,0,28
+BackRamp[N]=pipe_bridge.5.5,0,24
+BackRamp[S]=pipe_bridge.5.7,0,24
+BackRamp[E]=pipe_bridge.5.6,0,24
+BackRamp[W]=pipe_bridge.5.4,0,24
 
-BackRamp2[N]=pipe_bridge.4.5,0,28
-BackRamp2[S]=pipe_bridge.4.7,0,28
-BackRamp2[E]=pipe_bridge.4.6,0,28
-BackRamp2[W]=pipe_bridge.4.4,0,28
+BackRamp2[N]=pipe_bridge.4.5,0,24
+BackRamp2[S]=pipe_bridge.4.7,0,24
+BackRamp2[E]=pipe_bridge.4.6,0,24
+BackRamp2[W]=pipe_bridge.4.4,0,24
 
 backPillar[S]=pipe_bridge.2.5
 backPillar[W]=pipe_bridge.2.6
