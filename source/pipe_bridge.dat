@@ -2,8 +2,8 @@ Obj=bridge
 copyright=128Na,wo,Fabio Gonella
 Name=pipeline_bridge
 waytype=water
-cost=10000
-maintenance=100
+cost=50000
+maintenance=500
 topspeed=10
 #max_weight=334
 intro_year=1970
@@ -11,9 +11,9 @@ intro_month=1
 icon=> icon.0.2
 cursor=pipe_bridge.4.5
 
-max_length=334
+#max_length=334
 max_height=0
-pillar_asymmetric=0
+pillar_asymmetric=1
 pillar_distance=1
 
 BackImage[NS]=pipe_bridge.0.2,0,24
@@ -41,8 +41,8 @@ BackRamp2[S]=pipe_bridge.4.7,0,24
 BackRamp2[E]=pipe_bridge.4.6,0,24
 BackRamp2[W]=pipe_bridge.4.4,0,24
 
-backPillar[S]=pipe_bridge.2.5
-backPillar[W]=pipe_bridge.2.6
-backPillar2[S]=pipe_bridge.2.5
-backPillar2[W]=pipe_bridge.2.6
+backPillar[S]=pipe_bridge.6.6,0,0
+backPillar[W]=pipe_bridge.6.7,0,0
+backPillar2[S]=pipe_bridge.6.6,0,0
+backPillar2[W]=pipe_bridge.6.7,0,0
 
